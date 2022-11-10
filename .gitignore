@@ -1,0 +1,16 @@
+*cache*
+dist/
+*.pyc
+
+.venv/
+venv/
+
+.coverage
+coverage.xml
+
+.vim
+.idea
+.vscode
+
+.git
+.python-version
