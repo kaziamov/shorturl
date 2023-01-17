@@ -1,2 +1,4 @@
+[![Code Quality](https://github.com/kaziamov/shorturl/actions/workflows/quality.yml/badge.svg)](https://github.com/kaziamov/shorturl/actions/workflows/quality.yml)
+[![Test Coverage](https://github.com/kaziamov/shorturl/actions/workflows/coverage.yml/badge.svg)](https://github.com/kaziamov/shorturl/actions/workflows/coverage.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/5f9aa52bb702173dffce/maintainability)](https://codeclimate.com/github/kaziamov/shorturl/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/5f9aa52bb702173dffce/test_coverage)](https://codeclimate.com/github/kaziamov/shorturl/test_coverage)
