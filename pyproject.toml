@@ -1,16 +1,15 @@
 [tool.poetry]
-name = "shorturl"
+name = "kaziamov-shorturl"
 version = "0.1.0"
 description = ""
-authors = ["Ilia Kaziamov <ilya.kazyamov@gmail.com>"]
-repository = "https://github.com/kazyamov/shorturl"
+authors = ["Ilia Kaziamov <kaziamov@outlook.com>"]
+repository = "https://github.com/kaziamov/shorturl"
 packages = [ { include = 'shorturl' }, ]
 readme = "README.md"
 
 
 [tool.poetry.dependencies]
-python = "^3.10"
-Flask = "^2.2.2"
+python = "^3.9"
 
 
 [build-system]
