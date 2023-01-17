@@ -13,8 +13,6 @@ jobs:
       - uses: actions/setup-python@v2
       - run: pip install poetry
       - run: make install
-#      - run: make lint
-#      - run: make mtest
       - name: Test & publish code coverage
         uses: paambaati/codeclimate-action@v2.7.4
         env:
